@@ -12282,7 +12282,6 @@
 	}
 
 	#board .embla__viewport .listView-grid.topFeatured .embla__slide {
-		min-width: 330px;
 		max-width: 330px;
 		padding-right: 10px;
 		-webkit-box-sizing: border-box;
