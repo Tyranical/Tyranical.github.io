@@ -9612,8 +9612,8 @@
 	}
 
 	.listView-grid > li .listItemInner .description .authorPane img {
-		width: auto;
-		height: auto
+		width: 16px;
+		height: 16px
 	}
 
 	.listView-grid > li .listItemInner .displayedTag {
