@@ -10851,7 +10851,7 @@ ul {
 }
 
 .pagination.stories-pagination {
-	padding: 5em 0;
+	padding: 0;
 	margin: 0 auto
 }
 
@@ -14246,7 +14246,7 @@ body.achievement > div:not(#achievements-obtained):not(#achievement-box):not(.ca
 	left: 175px;
 	padding: 0;
 	right: initial;
-	max-width: calc(100vw - 180px - 380px - 2em + 25px);
+	max-width: calc(100vw - 180px - 380px - 150px - 2em + 25px);
 	width: 100%
 }
 
@@ -15619,8 +15619,8 @@ table tbody tr td {
 	}
 
 	.storiesList .storyListItem .imgContainer img {
-		width: 100%;
-		height: auto
+		width: 480px;
+		height: 270px;
 	}
 
 	.storiesList .storyListItem .tags {
