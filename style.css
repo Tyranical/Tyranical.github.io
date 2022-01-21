@@ -16328,19 +16328,6 @@
 		color: #eaedef
 	}
 
-	.tydai-spoiler:after {
-		background: #eaedef;
-		content: "Spoiler: Click to reveal";
-		height: 1em;
-		display: block;
-		top: 0;
-		color: #272727;
-		height: 1.5em;
-		padding: 1em 0;
-		width: 100%;
-		position: absolute
-	}
-
 	.tydai-spoiler.active {
 		color: #272727;
 		height: auto;
