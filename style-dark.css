@@ -9404,10 +9404,6 @@
 		left: 0
 	}
 
-	.column.watching.external nav > div {
-		display: none
-	}
-
 	.column.watching.external .label {
 		position: absolute;
 		top: 0;
